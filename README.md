@@ -1,9 +1,9 @@
 ### Born2BeRoot #42Rio
 
 # :ledger:Info:
-O objetivo deste projeto é criar um servidor por meio da ferramenta chamada <a href="https://www.virtualbox.org/">Virtual Box</a>. O Virtual Box serve para criar <a href="https://www.penso.com.br/o-que-e-maquina-virtual-e-para-que-serve/?utm_source=google&utm_medium=cpc&utm_campaign=Performance-Suporte&utm_term=_&pht=10091517607840771&adwgroup=&gclid=EAIaIQobChMI4MOtr7Xf-AIVPRXUAR0aEwTGEAAYAiAAEgKRpPD_BwE">Máquinas Virtuais.</a> Para entender e executar este projeto é preciso entender como funciona a ferramenta Virtual Box e o que é uma máquina virtual.
-
-Para este projeto é aprender sobre alguns deteerminados temas importantes para execução, estes são:
+> O objetivo deste projeto é criar um servidor por meio da ferramenta chamada <a href="https://www.virtualbox.org/">Virtual Box</a>. O Virtual Box serve para criar <a href="https://www.penso.com.br/o-que-e-maquina-virtual-e-para-que-serve/?utm_source=google&utm_medium=cpc&utm_campaign=Performance-Suporte&utm_term=_&pht=10091517607840771&adwgroup=&gclid=EAIaIQobChMI4MOtr7Xf-AIVPRXUAR0aEwTGEAAYAiAAEgKRpPD_BwE">Máquinas Virtuais.</a> Para entender e executar este projeto é preciso entender como funciona a ferramenta Virtual Box e o que é uma máquina virtual.
+>
+> Para este projeto é aprender sobre alguns deteerminados temas importantes para execução, estes são:
 > - O quê é uma máquina virtual.
 > - Entender o quê são LVMs.
 > - Quais as diferenças entre apt e aptitude.
@@ -40,3 +40,5 @@ Para este projeto é aprender sobre alguns deteerminados temas importantes para 
 >   - O endereço IPv4 do seu servidor e seu endereço MAC (Media Access Control).
 >   - O número de comandos executados com o programa sudo.
 ____
+
+### Sabendo dessas informarções, agora podemos dar inicio ao passo a passo para realizar o projeto!
