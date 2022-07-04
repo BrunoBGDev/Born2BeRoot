@@ -41,4 +41,4 @@
 >   - O número de comandos executados com o programa sudo.
 ____
 
-### Sabendo dessas informarções, agora podemos dar inicio ao passo a passo para realizar o projeto!
+### Sabendo dessas informarções, agora podemos dar inicio ao <a href="https://github.com/BrunoBGDev/Born2BeRoot/blob/main/Passo%20a%20passo.md">passo a passo</a> para realizar o projeto!
