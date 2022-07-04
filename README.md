@@ -10,7 +10,7 @@ Para este projeto é aprender sobre alguns deteerminados temas importantes para 
 > - Como configurar e entender como funciona o protocolo SSH.
 > - Criar admin e usuários no servidor.
 > - Instalar e configurar *sudo* na máquina virtual, seguindo esta configuração:
->   - A autenticação via sudo é limitada a 3 tentativas de senha incorreta.
+>   - A autenticação via sudo deve ser limitada a 3 tentativas de senha incorreta.
 >   - Uma mensagem de erro deve ser exibida em caso de senha incorreta enquanto está usando sudo.
 >   - Cada ação via sudo deve ser arquivada em um arquivo de log no local: /var/log/sudo/ .
 >   - O modo TTY deve ser habilitado por questões de segurança.
