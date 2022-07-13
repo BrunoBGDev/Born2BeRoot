@@ -64,3 +64,6 @@
 > >     se precisa fazer alguma tarefa com certa frequência(Como o script que criamos no projeto).
 >
 > * ## O que é SUDO?
+>       Sudo é um programa para sistemas baseados em Unix que possibilita os usuários executarem programas com
+>       privilégios de segurança de outro usuário. A configuração de usuários para receberam esses privilégios
+>       deve ser feita em (/etc/sudoers), e outras configurações sudo.
