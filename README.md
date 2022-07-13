@@ -4,12 +4,12 @@
 > :clipboard:O objetivo deste projeto é criar um servidor por meio da ferramenta chamada <a href="https://www.virtualbox.org/">Virtual Box</a>. O Virtual Box serve para criar <a href="https://www.penso.com.br/o-que-e-maquina-virtual-e-para-que-serve/?utm_source=google&utm_medium=cpc&utm_campaign=Performance-Suporte&utm_term=_&pht=10091517607840771&adwgroup=&gclid=EAIaIQobChMI4MOtr7Xf-AIVPRXUAR0aEwTGEAAYAiAAEgKRpPD_BwE">Máquinas Virtuais.</a> Para entender e executar este projeto é preciso entender como funciona a ferramenta Virtual Box e o que é uma máquina virtual.
 >
 > :white_check_mark:Para este projeto é aprender sobre alguns deteerminados temas importantes para execução, estes são:
-> - :computer:O quê é uma máquina virtual.
-> - :floppy_disk:Entender o quê são LVMs.
-> - :file_folder:Quais as diferenças entre apt e aptitude.
-> - :closed_lock_with_key:Como configurar e entender como funciona o protocolo SSH.
-> - :bookmark:Criar admin e usuários no servidor.
-> - :key:Instalar e configurar *sudo* na máquina virtual, seguindo esta configuração:
+> - :computer:<a href="https://www.penso.com.br/o-que-e-maquina-virtual-e-para-que-serve/?utm_source=google&utm_medium=cpc&utm_campaign=Performance-Suporte&utm_term=_&pht=10091517607840771&adwgroup=&gclid=EAIaIQobChMI4MOtr7Xf-AIVPRXUAR0aEwTGEAAYAiAAEgKRpPD_BwE">O quê é uma máquina virtual.</a>
+> - :floppy_disk:<a href="https://github.com/BrunoBGDev/Born2BeRoot/blob/main/Passo%20a%20passo.md">Entender o quê são LVMs.</a>
+> - :file_folder:<a href="https://github.com/BrunoBGDev/Born2BeRoot/blob/main/Infos.md">Quais as diferenças entre apt e aptitude.</a>
+> - :closed_lock_with_key:<a href="https://github.com/BrunoBGDev/Born2BeRoot/blob/main/Passo%20a%20passo.md">Como configurar e entender como funciona o protocolo SSH.</a>
+> - :bookmark:<a href="https://github.com/BrunoBGDev/Born2BeRoot/blob/main/Passo%20a%20passo.md">Criar admin e usuários no servidor.</a>
+> - :key:<a href="https://github.com/BrunoBGDev/Born2BeRoot/blob/main/Passo%20a%20passo.md">Instalar e configurar *sudo* na máquina virtual, seguindo esta configuração:</a>
 >   - A autenticação via sudo deve ser limitada a 3 tentativas de senha incorreta.
 >   - Uma mensagem de erro deve ser exibida em caso de senha incorreta enquanto está usando sudo.
 >   - Cada ação via sudo deve ser arquivada em um arquivo de log no local: /var/log/sudo/ .
